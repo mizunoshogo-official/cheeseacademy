@@ -1,0 +1,272 @@
+ body{
+    width: 960px;
+    font-family:robot;
+    line-height: 20%;
+ }  
+.box{
+   height: 400px;
+   background: url(../img/mainbg.png);
+   background-size: cover;
+   background-position: center;
+   display:flex; 
+   justify-content:center;
+   align-items: center;
+   flex-direction: column;
+   line-height: 10px;
+}
+
+.title{
+   font-size: 48px;
+   color: white;
+   padding-bottom: 40px;
+}
+.subtitle{
+   font-size: 36px;
+   color: white;
+}
+.spase64{padding-bottom: 64px;}
+.spase40{padding-bottom: 40px;}
+.spase3{padding-bottom: 20px;}
+.spase4{padding-bottom: 20px;}
+.spase5{padding-bottom: 80px;}
+
+
+.headerbox{
+line-height: 40px;
+display:flex; 
+justify-content:center;
+align-items: center;
+border-bottom: 1px solid#efefef;
+
+}
+
+.header_logo{
+
+
+   
+}
+
+.header_text {
+  font-size: 21px;
+  margin-left: 30px;
+   
+}
+
+.aboutmain{
+   display:flex;
+   justify-content:center; 
+   align-items: center; 
+   flex-direction: column;
+
+}
+
+.abouttitle{
+   font-size: 24px;
+   color: #ffd61a;
+   padding-top: 120px;
+
+}
+
+.coursetext{
+   font-size: 24px;
+   color: #222222;
+}
+
+.farm{
+   display:flex; 
+   
+}
+
+.farmimage{
+   display:flex; 
+   justify-content:left; 
+   align-items: center;
+   width: 50%;
+ 
+}
+
+.farmtext{
+   display:flex; 
+   justify-content:center; 
+   align-items: left; 
+   flex-direction: column;
+   background-color:#fafafa;
+   width: 50%;
+   padding-left: 48px;
+   
+   
+}
+
+.farmfont{
+   font-size: 24px;
+   color: #222222;
+   padding-bottom: 48px;
+}
+
+
+.knowledge{
+   display:flex; 
+}
+
+.knowledgetext{
+   display:flex; 
+   justify-content:center; 
+   align-items: left; 
+   flex-direction: column;
+   background-color:#fafafa;
+   width: 50%;
+   padding-right: 48px;
+
+}
+
+.knowledgeimage{
+   display:flex; 
+   justify-content:right; 
+   width: 55%;
+   height: 450px;
+
+}
+
+.knowledgefont{
+   font-size: 24px;
+   color: #222222;
+   padding-bottom: 40px;
+
+}
+.tasting{
+   display:flex; 
+}
+
+.tastingimge{
+   display: flex;
+   justify-content: ;
+   align-items:centers;
+   width: 50%;
+
+}
+
+.tastingtext{
+   display:flex; 
+   justify-content:center; 
+   align-items: left; 
+   flex-direction: column;
+   background-color:#fafafa;
+   width: 50%;
+   padding-left: 48px;
+
+}
+
+.tastingfont{
+ font-size: 24px;
+   color: #222222;
+   padding-bottom: 40px;
+}
+
+.cheaseall{
+   display:flex; 
+   justify-content:center; 
+   align-items: center;
+   padding-bottom: 56px;
+}
+
+.cheasereft{
+   display:flex; 
+   justify-content:center; 
+   align-items: center;
+   flex-direction: column;
+}
+
+.cheasesenter{
+   display:flex; 
+   justify-content:center; 
+   align-items: center;
+   flex-direction: column;
+}
+
+.cheaseright{
+   display:flex; 
+   justify-content:center; 
+   align-items: center;
+   flex-direction: column;
+}
+
+.nesuword{
+   color: #ffd61a;
+   padding-bottom: 20px;
+   display: flex;
+   justify-content:center; 
+   align-items: center; 
+   flex-direction: column;
+   
+}
+
+.newsfurigana{
+   display: flex;
+   justify-content:center; 
+   align-items: center; 
+   flex-direction: column;
+   padding-bottom: 64px;
+
+}
+
+.cheaseleft{
+display: flex;
+justify-content:center; 
+align-items: left; 
+flex-direction: column;
+}
+
+
+}
+
+.lefttext{
+   padding-top: 32px;
+   padding-bottom: 24px;
+   justify-content: center;
+   align-items: left; 
+   
+   
+}
+
+.cheasesenter{
+
+}
+
+.cheaseright{
+
+}
+
+.ggmaps{
+ position: relative;
+  width: 100%;
+  
+}
+
+.accsesall{
+   background-color: #fafafa;
+   padding-top: 64px;
+   padding-bottom:80px;
+   display:flex;
+   justify-content:center; 
+   align-items: center;
+   flex-direction: column;
+}
+
+.otoiawase{
+   display:flex; 
+   justify-content:center; 
+   align-items: center; 
+   flex-direction: column;
+}
+
+.copy{
+   background-color: #707070;
+   color: white;
+   font-size: 18px;
+   padding-top: 32px;
+   padding-bottom: 32px;
+   display:flex; 
+   justify-content:center; 
+   align-items: center;
+}
+
